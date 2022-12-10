@@ -4,4 +4,4 @@ I attempt everything that I learn here :)
 
 ## Findings:
 - Routing is file based 
-- Nested routing = parent page goes in 'pages' folder, create new folder for child pages. Example: /blog = './pages/blog.js', /blog/first = './pages/blog/first.js'
+- Nested routing = all pages with endpoint /blog go in the 'blog' folder. The root page is index.js
