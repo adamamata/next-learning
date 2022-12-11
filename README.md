@@ -6,4 +6,4 @@ I attempt everything that I learn here :)
 - Routing is file based.
 - Nested routing = all pages with endpoint /blog go in the 'blog' folder. The root page is index.js.
 - Dynamic Routing = example shown in the 'product' pages. 
-- Nested dynamic routing = dynamic routing can be nested. 
+- Nested dynamic routing = dynamic routing can be nested (check food pages).
